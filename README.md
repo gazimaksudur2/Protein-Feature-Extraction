@@ -76,11 +76,11 @@ In `cache/complete_protein_features.csv`, each protein row contains:
 
 See the `docs/` folder:
 
-- `docs/01_collected_files_and_caches.md`
-- `docs/02_uniprot_features_observation.md`
-- `docs/03_sequence_descriptor_features_observation.md`
-- `docs/04_structure_features_observation.md`
-- `docs/05_master_feature_matrix_observation.md`
+- [01_collected_files_and_caches.md](docs/01_collected_files_and_caches.md)
+- [02_uniprot_features_observation.md](docs/02_uniprot_features_observation.md)
+- [03_sequence_descriptor_features_observation.md](docs/03_sequence_descriptor_features_observation.md)
+- [04_structure_features_observation.md](docs/04_structure_features_observation.md)
+- [05_master_feature_matrix_observation.md](docs/05_master_feature_matrix_observation.md)
 
 ---
 
@@ -116,4 +116,3 @@ git lfs checkout
 ```bash
 git lfs ls-files
 ```
-
