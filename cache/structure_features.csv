@@ -1,0 +1,4 @@
+uniprot_id,has_experimental_structure,has_alphafold_structure,best_pdb_id,pdb_file_path,alphafold_file_path,structure_source,pdb_resolution,n_residues,n_chains,radius_gyration,mean_bfactor,std_bfactor,helix_pct,sheet_pct,coil_pct
+P69905,True,False,2W72,cache\pdb_structures\2W72.cif,,PDB,1.07,574,4,23.4530029296875,14.592755139500731,7.625614519246126,,,
+P68871,True,False,2W72,cache\pdb_structures\2W72.cif,,PDB,1.07,574,4,23.4530029296875,14.592755139500731,7.625614519246126,,,
+P00734,True,False,5AFY,cache\pdb_structures\5AFY.cif,,PDB,1.12,291,3,17.385908126831055,19.448776695003108,8.951645641417487,,,

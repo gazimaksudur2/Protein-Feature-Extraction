@@ -1,0 +1,20 @@
+[
+  {
+    "id": "P69905",
+    "kind": "AlphaFold",
+    "stage": "http",
+    "error": "404"
+  },
+  {
+    "id": "P68871",
+    "kind": "AlphaFold",
+    "stage": "http",
+    "error": "404"
+  },
+  {
+    "id": "P00734",
+    "kind": "AlphaFold",
+    "stage": "http",
+    "error": "404"
+  }
+]
