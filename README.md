@@ -82,3 +82,38 @@ See the `docs/` folder:
 - `docs/04_structure_features_observation.md`
 - `docs/05_master_feature_matrix_observation.md`
 
+---
+
+### Cloning this repo (Git LFS required for large files)
+
+Some folders/files in this project are tracked with **Git LFS** (see `.gitattributes`). If you clone without Git LFS, you may only get **small pointer files** instead of the real data.
+
+#### Install Git LFS (one-time per machine)
+
+```bash
+git lfs install
+```
+
+#### Clone normally (LFS downloads automatically)
+
+```bash
+git clone https://github.com/gazimaksudur2/Protein-Feature-Extraction.git
+cd ProteinFetch
+git lfs pull
+```
+
+#### If you already cloned without LFS
+
+```bash
+cd ProteinFetch
+git lfs install
+git lfs fetch --all
+git lfs checkout
+```
+
+#### Verify you have the real LFS files
+
+```bash
+git lfs ls-files
+```
+
